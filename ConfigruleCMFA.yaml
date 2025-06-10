@@ -32,7 +32,7 @@ dns:
     - 1.1.1.1
     - 112.215.203.254
 proxies:
-  - name: id
+  - name: AKUN1
     server: ava.game.naver.com
     port: 443
     type: trojan
@@ -48,7 +48,7 @@ proxies:
       headers:
         Host: min.biz.id
     udp: true
-  - name: simen sg
+  - name: AKUN2
     server: ava.game.naver.com
     port: 443
     type: vmess
